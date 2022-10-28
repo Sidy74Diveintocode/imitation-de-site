@@ -96,8 +96,13 @@ div, li {
 .concept {
   display: flex;
 }
+.concept_text{
+  width: 65%;
+  padding: 2%;
+}
 .concept .concept_image{
-  margin-left: 10%;
+  width: 35%;
+  
 }
 .menu_title {
   display: inline-block;
